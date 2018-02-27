@@ -1,0 +1,6 @@
+framework module Pods_ObjcExceptionBridging__watchOS_ {
+  umbrella header "Pods-ObjcExceptionBridging (watchOS)-umbrella.h"
+
+  export *
+  module * { export * }
+}
